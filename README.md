@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)
 
-<h1 align="center">Hi 👋, I'm Anirban Sarkar</h1>
+<h1 align="center">Hii 👋, I'm Anirban Sarkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
