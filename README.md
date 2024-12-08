@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anirban Sarkar  
 ### A passionate Full Stack Developer from India  
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/8iw4l1caoswc1.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/b1/1d/41b11dfd6b74eaf9b171c6bb7e306797.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anirbancodestack08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
