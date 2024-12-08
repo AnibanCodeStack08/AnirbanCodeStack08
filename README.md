@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/AnibanCodeStack08)">
     <img src="https://github-profile-trophy.vercel.app/?username=anirbancodestack08" alt="anirbancodestack08" />
   </a>
 </p>
