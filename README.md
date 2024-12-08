@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/41/b1/1d/41b11dfd6b74eaf9b171c6bb7e306797.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxNWQwN2ZiLWM1YWItNGUxMC04NmM3LTk4M2Y3NzQ2ZWI0OFwvZGdkaWRmYS0wYTQ2ZTcxYS1iNDAxLTRiNzMtYWM2Yy04MDYyN2RlYjE1MDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgl73oWrDBjaV1JjWfUZ8EG4JP4pJQyA7WX32tG3iHk)
+![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)
 
 <h1 align="center">Hi 👋, I'm Anirban Sarkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
